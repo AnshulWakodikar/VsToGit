@@ -1,2 +1,6 @@
 this is text file.
+<<<<<<< HEAD
 best
+=======
+Update file.1
+>>>>>>> 4a32e92697699d64f3f8494a30a0343baaa27ed8
